@@ -342,10 +342,6 @@ button {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 
-.container-footer {
-  /* padding: 100px 0; */
-}
-
 .footer-logo {
   display: inline-block;
   color: var(--CLOUD, #4d5ae5);
